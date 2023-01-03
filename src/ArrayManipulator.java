@@ -47,7 +47,10 @@ public class ArrayManipulator {
      *  @return  the average of the first, last, and middle elements
      */
     public double getNumsAverage()
-    { /* implement this method! */ }
+    {
+        for (int i = 0; i <= nums.length; i++) {
+
+    }
 
 
     /** Returns true if both the nums and words arrays have the same number of
